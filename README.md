@@ -10,4 +10,4 @@
 * 第九章 EM算法(Expectation Maximum algorithm)
 * 第十章 隐马尔可夫(HMM)
 
-文字笔记可见: [Blog](http://www.bioinfo-scrounger.com/archives/category/leaning-note/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0)
+文字笔记可见: [Blog](https://www.bioinfo-scrounger.com/tags/Machine-learning/)
